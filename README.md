@@ -1,4 +1,13 @@
-# \# 🎵 YTGrabber
+Categoria,Recurso Detalhado,Descrição e Vantagem
+Busca e Navegação,🔍 Busca Integrada e Organizada,"Pesquisa direta no YouTube e YouTube Music. Os resultados são apresentados de forma clara e numerada no terminal, facilitando a escolha."
+,▶️ Reprodução Instantânea (MPV),Não precisa baixar pra saber se é o que você queria! Use o MPV Player embutido para pré-visualizar vídeos ou ouvir músicas direto do terminal antes de iniciar o download.
+Download,💾 Download de Áudio em MP3,"Foco total em áudio! O programa garante o download e a conversão automática do arquivo para MP3 utilizando o poder do FFmpeg, com a melhor qualidade disponível."
+,📦 Suporte a Downloads em Massa,"Baixe tudo de uma vez! Suporta o download completo de Playlists, Álbuns (do YouTube Music) e até mesmo Canais inteiros com apenas um comando."
+,🍪 Acesso a Conteúdo Restrito,"Possui um sistema para importar cookies de navegação, permitindo que você acesse e baixe conteúdo restrito ou privado (como músicas do YouTube Music que exigem login)."
+Usabilidade,🇧🇷 Interface 100% em Português,"Totalmente amigável para o usuário brasileiro, com menus intuitivos e mensagens claras. Não precisa se virar no ""inglês técnico""!"
+,📁 Organização Inteligente de Pastas,"Seus downloads não vão virar uma bagunça. O YTGrabber organiza automaticamente os arquivos em pastas separadas (downloads/, playlists/, albuns/, canais/), baseadas no tipo de conteúdo baixado."
+Performance e Segurança,⚡ Leve e Veloz (CLI),"Por ser uma interface de linha de comando (CLI), o consumo de recursos é mínimo, garantindo velocidade e estabilidade, mesmo em máquinas mais antigas."
+,🔒 Privacidade Total (Local),"Segurança em primeiro lugar! Tudo, desde a busca até o download e conversão, roda localmente na sua máquina. Seus dados e seu uso não são enviados para terceiros."# \# 🎵 YTGrabber
 
 # 
 
